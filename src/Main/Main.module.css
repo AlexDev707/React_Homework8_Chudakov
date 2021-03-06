@@ -1,0 +1,14 @@
+.car {
+ width: 700px;
+ height: 400px;
+}
+
+.name {
+ font-size: 30px;
+ color: #413e3e;
+}
+
+.price {
+ font-size: 20px;
+ color: #413e3e;
+}

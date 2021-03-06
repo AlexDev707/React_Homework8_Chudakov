@@ -1,0 +1,14 @@
+.block {
+  background-image: url(https://raw.githubusercontent.com/AlexDev707/Final-project/master/img/background_desktop.png);
+  height: 400px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+ align-items: center;
+ justify-content: center;
+}
+
+.name {
+ font-size: 50px;
+ color: antiquewhite;
+}
